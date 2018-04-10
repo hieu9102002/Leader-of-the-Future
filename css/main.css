@@ -450,6 +450,7 @@ ul li {
 .person {
 	max-width: 270px;
 	text-align: center;
+	margin-bottom: 40px;
 }
 .person img {
 	width: 150px;
