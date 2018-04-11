@@ -15,7 +15,7 @@
 p {
 	font-size: 13px;
 	line-height: 22.4px;
-	color: #6c7279;
+	color: #0e2f44;
 }
 h1 {
 	font-size: 65px;
@@ -42,7 +42,7 @@ h5 {
 	font-weight: 700;
 }
 .btn {
-	background-color: #3bc492;
+	background-color: orange;
 	color: #fff;
 	font-size: 13px;
 	font-weight: 600;
@@ -137,7 +137,7 @@ ul li {
 }
 #header.fixed .nav-toggle {
 	top: 18px;
-	color: #000;
+	color: orange;
 }
 .navigation.open {
 	opacity: 0.9;
@@ -304,7 +304,7 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-image: url(../images/banner.jpg);
+	background-image: url(https://scontent.fhan2-3.fna.fbcdn.net/v/t31.0-8/13227377_618604041622950_8166328680306496264_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeGSlcqGnmISVbCDQ8Y_EOAbaH6nqlNQMWndjXCsKSdxMeHRUyi_gcggK2fD8XsOTu9y2uBuh5gO2Zd37ND74tWSeCMC5K1SN4_8s2ZfmwgEMw&oh=86b80c34211b0d1983f9982f49e2469d&oe=5B72ABD9);
 	background-position: center top;
 	background-repeat: no-repeat;
 	-moz-background-size: cover;
@@ -335,7 +335,7 @@ ul li {
 	$intro
 ========================================================================== */
 .intro {
-	background-color: #00aeda;
+	background-color: orange;
 }
 .intro h3 {
 	color: #fff;
